@@ -1,0 +1,5 @@
+HOST = 'localhost'
+USER = 'user'
+PASS = 'password'
+DB = 'mystery_house'
+CHARSET = 'utf8mb4'
